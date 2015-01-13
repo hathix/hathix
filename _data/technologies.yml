@@ -1,8 +1,8 @@
 - name: AngularJS
-- name: Backbone
 - name: Bootstrap
 - name: CoffeeScript
 - name: CSS3
+- name: Handlebars
 - name: Heroku
 - name: HTML5
 - name: Java

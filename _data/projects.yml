@@ -5,7 +5,7 @@
         Cabra helps students, teachers, social workers, parents, and anyone else
         improve their learning experiences.
     links:
-        -   name: website
+        -   name: Project site
             icon: globe
             url: http://cabra.hathix.com
         -   name: Android app
@@ -83,6 +83,7 @@
         -   JavaScript
         -   jQuery
         -   Bootstrap
+        -   Handlebars
         -   Meteor
         -   MongoDB
 -   name: ePhotoBlossom
@@ -105,4 +106,43 @@
         -   jQuery
         -   PHP
         -   MySQL
+        -   Bootstrap
     image: ephotoblossom.png
+-   name: Summarize
+    description: A simple article summarizer (HackMIT 2014)
+    blurb: |
+        Extracts and defines key terms from a PDF/text article to ease reading
+        or create a quick-to-read outline. Developed for HackMIT 2014.
+    links:
+        -   name: Web app
+            icon: mobile
+            url: http://hathix.com/hacks/summarize
+        -   name: GitHub
+            icon: github
+            url: https://github.com/felixzhuologist/Summarize
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   jQuery
+        -   PHP
+        -   MySQL
+        -   Bootstrap
+        -   Handlebars
+-   name: Python Security
+    description: Random number and prime number modules for web security
+    blurb: |
+        A pair of Python modules -- a true random number generator and a prime
+        number generator -- to improve security and cryptography. Developed for
+        the Pennsylvania Junior Academy of Science's statewide science fairs
+        in 2012 and '13.
+    links:
+        -   name: Truly random number generators
+            icon: github
+            url: https://github.com/hathix/true-random
+        -   name: Prime number generators
+            icon: github
+            url: https://github.com/hathix/prime-algorithms
+    technologies:
+        -   Python
+    image: security-lock.png

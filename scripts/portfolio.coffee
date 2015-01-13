@@ -29,8 +29,8 @@ angular.module('hathixApp')
         $scope.showProject = (projectName) ->
             $scope.project = projectName
 
-        # Given a list of technologies separated by some character,
+        # Given a list of technologies separated by the pipe (|) character,
         # determines if the project should be shown given the current filter
         $scope.shouldShowProject = (technologiesString) ->
             if not $scope.filter? then return true
-            return technologiesString.indexOf($scope.filter) >= 0
+            return _.contains technologiesString.split("|"), $scope.filter
