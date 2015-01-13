@@ -8,18 +8,7 @@
         {% include header.html %}
 
         <div class="container" id="main-container">
-            <div class="jumbotron clearfix">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                        <img id="main-image" class="img-responsive" src="images/elephant.png">
-                        <br>
-                    </div>
-                    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 text-center">
-                        <h2>hathix.com</h2>
-                        <h3>think inside the box</h3>
-                    </div>
-                </div>
-            </div>
+            {% include jumbotron.html %}
 
             <h1>{{ page.title }}</h1>
 

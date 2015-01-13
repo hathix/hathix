@@ -7,6 +7,15 @@
     margin: 1em;
 }
 
+@media(min-width: 480px) {
+    #jumbotron h2 {
+        font-size: 4em !important;
+    }
+    #jumbotron h3 {
+        font-size: 2em !important;
+    }
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
