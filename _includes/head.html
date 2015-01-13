@@ -23,7 +23,9 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/custom.css">
 
-	<!-- Angular controllers -->
-    <script src="scripts/main.js"></script>
+    <!-- Custom styles for each page -->
+    {% for style in page.styles %}
+        <link rel="stylesheet" href="{{style}}">
+    {% endfor %}
 
 </head>

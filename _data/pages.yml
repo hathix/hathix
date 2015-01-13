@@ -1,4 +1,4 @@
-- name: Portfolio
-  url: portfolio
-- name: Blog
-  url: http://blog.hathix.com
+-   name: Portfolio
+    url: portfolio.html
+-   name: Blog
+    url: http://blog.hathix.com

@@ -1,13 +1,10 @@
 # Site settings
 tagline: "hathix.com"
 
-
-
-
 title: Jekyll - Angular - Firebase (JAF)
 email: your-email@domain.com
 description: "your site description"
-url: "http://yourdomain.com"
+url: "http://hathix.com"
 angular_version: 1.3.8
 bootstrap_version: 3.3.1
 jquery_version: 1.11.2

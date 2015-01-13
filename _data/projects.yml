@@ -1,0 +1,108 @@
+-   name: Cabra Flashcards
+    description: A free, open-source studying app
+    blurb: |
+        With over 230,000 users in 190 countries around the world,
+        Cabra helps students, teachers, social workers, parents, and anyone else
+        improve their learning experiences.
+    links:
+        -   name: website
+            icon: globe
+            url: http://cabra.hathix.com
+        -   name: Android app
+            icon: android
+            url: https://play.google.com/store/apps/details?id=com.hathix.android.chevre
+        -   name: Web app
+            icon: mobile
+            url: http://chevre.hathix.com
+        -   name: Cabra 2.0 beta
+            icon: github
+            url: https://github.com/hathix/cabra
+        -   name: Cabra 1.0 mobile
+            icon: github
+            url: https://github.com/hathix/cabra-mobile
+        -   name: Cabra 1.0 desktop
+            icon: github
+            url: https://github.com/hathix/cabra-desktop
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   CoffeeScript
+        -   jQuery
+        -   Bootstrap
+        -   AngularJS
+        -   MongoDB
+        -   PhoneGap
+        -   Java
+    image: cabra-icon.png
+-   name: Pathagram
+    description: Teach yourself JavaScript by making your own Instagram filters
+    blurb: |
+        A project I've developed with Harvard's Digital Literacy Project, a group
+        that teaches computer science to middle schoolers in Boston, Pathagram
+        makes learning computer science fun and engaging.
+    links:
+        -   name: Web app
+            icon: mobile
+            url: https://pathagram.herokuapp.com
+        -   name: GitHub
+            icon: github
+            url: https://github.com/DigitalLiteracyProject/pathagram
+        -   name: Digital Literacy Project website
+            icon: globe
+            url: http://dlp.io
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   CoffeeScript
+        -   jQuery
+        -   Bootstrap
+        -   Node.js
+        -   AngularJS
+        -   Heroku
+    image: dlp-logo.png
+-   name: CHES Surveys
+    description: An SMS-based survey system
+    blurb: |
+        Created with Harvard's Developers 4 Development, a computer science
+        and international development group, this project aims to help a nonprofit
+        named CHES communicate with Haitian entrepreneurs using SMS.
+    links:
+        -   name: Web app
+            icon: mobile
+            url: http://d4d-ches.meteor.com/
+        -   name: GitHub
+            icon: github
+            url: https://github.com/hathix/d4d-ches
+        -   name: Developers 4 Development website
+            icon: globe
+            url: http://www.harvardd4d.com
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   jQuery
+        -   Bootstrap
+        -   Meteor
+        -   MongoDB
+-   name: ePhotoBlossom
+    description: Enterprise inventory-management system for florists
+    blurb: |
+        Built at regional florist Plaza Flowers, ePhotoBlossom integrates with
+        software used by 16,000 florists nationwide. Snap photos using your device's webcam,
+        track photos by barcode, and share with a click.
+    links:
+        -   name: Web app
+            icon: mobile
+            url: http://www.ephotoblossom.com/
+        -   name: Plaza Flowers website
+            icon: globe
+            url: http://www.pflorist.com
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   jQuery
+        -   PHP
+        -   MySQL
+    image: ephotoblossom.png
