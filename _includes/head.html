@@ -6,7 +6,7 @@
         {{ page.title }} | {{site.tagline}}
     </title>
     <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <!-- Angular.JS -->
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/{{ site.angular_version }}/angular.min.js"></script>
