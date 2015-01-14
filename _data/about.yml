@@ -34,6 +34,10 @@ faq:
             I discovered a fantastic tool for website building called
             [Jekyll](http://jekyllrb.com). That and the usual HTML, CSS, and JavaScript,
             with libraries like jQuery, Angular, and Bootstrap.
+            Check out the [GitHub repository](https://github.com/hathix/hathix).
+    -   question: Any easter eggs on this site?
+        answer: |
+            Yeah! Click the "think inside the box" slogan.
     -   question: How's Harvard?
         answer: |
             Better than Yale. But seriously, it's fantastic.
