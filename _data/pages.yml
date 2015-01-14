@@ -3,12 +3,14 @@ main:
         url: /
     -   name: Portfolio
         url: /portfolio.html
+    -   name: About
+        url: /about.html
     -   name: Blog
         url: http://blog.hathix.com
+    -   name: Cabra
+        url: http://cabra.hathix.com
     -   name: Store
         url: http://www.cafepress.com/hathix
-    -   name: About
-        url: about.html
 more:
     -   name: Games
         url: /games.html
