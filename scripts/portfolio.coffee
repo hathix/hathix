@@ -22,6 +22,12 @@ angular.module('hathixApp')
             $scope.showProject newFirstProject
             ###
 
+        $scope.getFilterText = () ->
+            if $scope.filter?
+                "Projects using #{$scope.filter}"
+            else
+                "All projects"
+
         # show a project's info page
         $scope.project = null
         $scope.isProjectActive = (projectName) ->

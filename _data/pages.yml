@@ -1,6 +1,14 @@
--   name: Home
-    url: /
--   name: Portfolio
-    url: portfolio.html
--   name: Blog
-    url: http://blog.hathix.com
+main:
+    -   name: Home
+        url: /
+    -   name: Portfolio
+        url: /portfolio.html
+    -   name: Blog
+        url: http://blog.hathix.com
+    -   name: About
+        url: about.html
+more:
+    -   name: Games
+        url: /games.html
+    -   name: Etc
+        url: /etc.html
