@@ -14,5 +14,5 @@ main:
 more:
     -   name: Games
         url: /games.html
-    -   name: Etc
-        url: /etc.html
+    -   name: Miscellaneous
+        url: /miscellaneous.html
