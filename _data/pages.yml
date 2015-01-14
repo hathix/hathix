@@ -5,6 +5,8 @@ main:
         url: /portfolio.html
     -   name: Blog
         url: http://blog.hathix.com
+    -   name: Store
+        url: http://www.cafepress.com/hathix
     -   name: About
         url: about.html
 more:
