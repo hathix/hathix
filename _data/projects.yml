@@ -1,7 +1,7 @@
 -   name: Cabra Flashcards
     description: A free, open-source studying app
     blurb: |
-        With over 230,000 users in 190 countries around the world,
+        With over 250,000 users in 190 countries around the world,
         Cabra helps students, teachers, social workers, parents, and anyone else
         improve their learning experiences.
     links:
@@ -34,7 +34,33 @@
         -   MongoDB
         -   PhoneGap
         -   Java
-    image: cabra-icon.png
+    image: cabra-logo.png
+-   name: Transparent
+    description: Visualizing government PDFs (Grand Prize, Tufts IDHack 2015)
+    blurb: |
+        Converts dirty scanned PDFs published by the Tanzanian government
+        to open, machine-readable CSV format, then visualizes it. Developed with the World Bank
+        for the International Development hackathon at Tufts in February 2015.
+    links:
+        -   name: Web app
+            icon: mobile
+            url: http://transparent.heroku.com
+        -   name: GitHub
+            icon: github
+            url: https://github.com/team-transparent/idhacks
+        -   name: ChallengePost
+            icon: trophy
+            url: http://challengepost.com/software/transparent-9b7d5
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   jQuery
+        -   Bootstrap
+        -   Node.js
+        -   AngularJS
+        -   Heroku
+    image: transparent-logo.png
 -   name: Pathagram
     description: Teach yourself JavaScript by making your own Instagram filters
     blurb: |
