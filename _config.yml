@@ -1,13 +1,13 @@
 # Site settings
 tagline: "hathix.com"
 
-title: Jekyll - Angular - Firebase (JAF)
+title: hathix.com
 description: hathix.com is home to Neel Mehta's software, blog, portfolio, and more. Think inside the box.
 url: http://hathix.com
-angular_version: 1.3.8
-bootstrap_version: 3.3.1
+angular_version: 1.3.13
+bootstrap_version: 3.3.2
 jquery_version: 1.11.2
-fontawesome_version: 4.2.0
+fontawesome_version: 4.3.0
 
 # Build settings
 markdown: kramdown
