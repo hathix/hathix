@@ -112,6 +112,24 @@
         -   Handlebars
         -   Meteor
         -   MongoDB
+-   name: Connected
+    description: Helping you build professional relationships
+    blurb: |
+        Built at Greylock Partners' annual college hackathon in Burlingame, CA,
+        this web/mobile app helps you collect information on professional contacts
+        you meet and provides actionable tips you can use to grow your relationships
+        with them.
+    links:
+        -   name: GitHub
+            icon: github
+            url: https://github.com/josephwandile/greylocknewco
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   jQuery
+        -   AngularJS
+        -   Ionic
 -   name: ePhotoBlossom
     description: Enterprise inventory-management system for florists
     blurb: |
