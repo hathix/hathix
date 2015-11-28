@@ -3,6 +3,8 @@ main:
         url: /
     -   name: Portfolio
         url: /portfolio.html
+    -   name: Media
+        url: /media.html
     -   name: About
         url: /about.html
     -   name: Blog
