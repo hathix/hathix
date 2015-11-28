@@ -4,7 +4,7 @@ favorites:
     -   type: Greeting
         value: "Yo!"
     -   type: Programming language
-        value: CoffeeScript
+        value: JavaScript (ES6)
     -   type: Animal
         value: Elephant (duh)
     -   type: Sport
@@ -14,7 +14,7 @@ favorites:
     -   type: Music
         value: Alternative rock
     -   type: Band
-        value: Imagine Dragons
+        value: Young the Giant
     -   type: City
         value: Philadelphia
 resume: https://www.dropbox.com/s/dyxlo289lw9et4g/Neel%20Mehta%20Resume.pdf?dl=0
@@ -45,6 +45,9 @@ faq:
         answer: |
             This is the one time I regret being vegetarian.
             [Shoo-fly pie](https://en.wikipedia.org/wiki/Shoofly_pie) is good, though.
+    -   question: What kind of skateboard do you ride?
+        answer: |
+            Goldcoast 26" cruiser. Nothing fancy.
     -   question: Favorite sports teams?
         answer: |
             Easily the Philadelphia Phillies. I root for the Red Sox when I go to Fenway.
