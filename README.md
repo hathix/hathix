@@ -17,3 +17,4 @@ To deploy the website, copy the `_site` directory to your server.
 
 ## TODO
 - Add Work history page (already created `_data/jobs.yml`)
+- Make portfolio and media pages (specifically the images thereon) more responsive
