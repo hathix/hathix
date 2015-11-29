@@ -14,3 +14,6 @@ To deploy the website, copy the `_site` directory to your server.
 - Bootstrap
 - jQuery
 - Underscore
+
+## TODO
+- Add Work history page (already created `_data/jobs.yml`)
