@@ -1,0 +1,14 @@
+-   company:
+        name: Khan Academy
+        url: https://khanacademy.org
+    role: Software Engineering Intern
+    date:
+        start: May 2015
+        end: Aug 2015
+    description: |
+        I worked on the frontend of khanacademy.org, extended the discussion notification system, created SEO'd landing pages, analyzed donation and user interaction data with SQL, and worked closely with designers and other engineers.
+    links:
+        -   name: Blog post
+            icon: pencil
+            url: TODO
+    image: TODO
