@@ -6,9 +6,15 @@
         start: May 2015
         end: Aug 2015
     description: |
-        I worked on the frontend of khanacademy.org, extended the discussion notification system, created SEO'd landing pages, analyzed donation and user interaction data with SQL, and worked closely with designers and other engineers.
+        I loved working at Khan Academy because I'm passionate about using technology to make education more effective and accessible for all. At Khan Academy, I interned on the web frontend team, working closely with designers and other engineers, and dabbled in backend engineering, data science, and product management.
+    bullets:
+        - Extended the discussion notification system
+        - Created SEO'd landing pages
+        - Fixed bugs on new React-based video player
+        - Analyzed donation and user interaction data with SQL
+        - Worked closely with content team to propose project to add flashcards to website
     links:
         -   name: Blog post
             icon: pencil
             url: TODO
-    image: TODO
+    image: khan-academy.png
