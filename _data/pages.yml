@@ -3,7 +3,7 @@ main:
         url: /
     -   name: Portfolio
         url: /portfolio.html
-    -   name: Work
+    -   name: Work History
         url: /work.html
     -   name: Media
         url: /media.html

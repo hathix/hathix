@@ -7,7 +7,13 @@ permalink: work.html
 {% for job in site.data.jobs %}
     <div>
         <div>
-            <h2>{{job.name}}</h2>
+            <h2>
+                <a href="{{job.company.url}}">
+                    {{job.company.name}}
+                </a>
+            </h2>
+            <h3>{{job.role}}</h3>
+            <h3>{{job.date.start}} — {{job.date.end}}</h3>
         </div>
 
         {% if job.image %}
@@ -28,5 +34,13 @@ permalink: work.html
         <p class="lead clearfix">
             {{job.description}}
         </p>
+
+        <ul class="list-unstyled lead">
+            {% for bullet in job.bullets %}
+                <li>
+                    {{bullet}}
+                </li>
+            {% endfor %}
+        </ul>
     </div>
 {% endfor %}
