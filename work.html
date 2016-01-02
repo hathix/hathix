@@ -1,0 +1,32 @@
+---
+layout: default
+title: Work History
+permalink: work.html
+---
+
+{% for job in site.data.jobs %}
+    <div>
+        <div>
+            <h2>{{job.name}}</h2>
+        </div>
+
+        {% if job.image %}
+            <img src="images/jobs/{{job.image}}" class="portfolio-image pull-left">
+        {% endif %}
+
+        <ul class="list-unstyled lead">
+            {% for link in job.links %}
+                <li>
+                    <a href="{{link.url}}">
+                        <span class="fa fa-fw fa-{{link.icon}}"></span>
+                        {{link.name}}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <p class="lead clearfix">
+            {{job.description}}
+        </p>
+    </div>
+{% endfor %}
