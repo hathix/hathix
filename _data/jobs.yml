@@ -1,4 +1,23 @@
 -   company:
+        name: CS50
+        url: https://cs50.harvard.edu
+    role: Teaching Fellow
+    date:
+        start: Aug 2015
+        end: Dec 2015
+    description: |
+        I helped teach Harvard's introduction to computer science and largest course, with over 800 students. I loved getting new students excited about computer science and, more generally, helping grow Harvard's up-and-coming computer science department.
+    bullets:
+        - Led recitation sections with class of 20
+        - Held office hours with over 300 students regularly in attendance
+        - Graded exams and problem sets
+        - Created comprehensive handouts that became very popular with students
+    links:
+        -   name: Section GitHub repo with my handouts
+            icon: pencil # TODO
+            url: https://github.com/hathix/cs50-section
+    image: khan-academy.png # TODO
+-   company:
         name: Khan Academy
         url: https://khanacademy.org
     role: Software Engineering Intern
@@ -6,7 +25,7 @@
         start: May 2015
         end: Aug 2015
     description: |
-        I loved working at Khan Academy because I'm passionate about using technology to make education more effective and accessible for all. At Khan Academy, I interned on the web frontend team, working closely with designers and other engineers, and dabbled in backend engineering, data science, and product management.
+        I enjoyed working at Khan Academy because I'm passionate about using technology to make education more effective and accessible for all. At Khan Academy, I interned on the web frontend team, working closely with designers and other engineers, and dabbled in backend engineering, data science, and product management.
     bullets:
         - Extended the discussion notification system
         - Created SEO'd landing pages
