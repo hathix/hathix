@@ -16,5 +16,4 @@ To deploy the website, copy the `_site` directory to your server.
 - Underscore
 
 ## TODO
-- Fix some _TODO_'s in the jobs section.
 - Make portfolio and media pages (specifically the images thereon) more responsive

@@ -14,9 +14,9 @@
         - Created comprehensive handouts that became very popular with students
     links:
         -   name: Section GitHub repo with my handouts
-            icon: pencil # TODO
+            icon: book
             url: https://github.com/hathix/cs50-section
-    image: khan-academy.png # TODO
+    image: cs50.jpeg
 -   company:
         name: Khan Academy
         url: https://khanacademy.org
@@ -35,5 +35,5 @@
     links:
         -   name: Blog post
             icon: pencil
-            url: TODO
+            url: http://blog.hathix.com/2015/11/khan-academy-internship/
     image: khan-academy.png
