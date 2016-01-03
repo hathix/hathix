@@ -9,11 +9,10 @@ permalink: work.html
         <div>
             <h2>
                 <a href="{{job.company.url}}">
-                    {{job.company.name}}
+                     {{job.role}} at {{job.company.name}}
                 </a>
             </h2>
-            <h3>{{job.role}}</h3>
-            <h3>{{job.date.start}} — {{job.date.end}}</h3>
+            <h3>{{job.date.start}} - {{job.date.end}}</h3>
         </div>
 
         {% if job.image %}
@@ -35,7 +34,7 @@ permalink: work.html
             {{job.description}}
         </p>
 
-        <ul class="list-unstyled lead">
+        <ul class="">
             {% for bullet in job.bullets %}
                 <li>
                     {{bullet}}
