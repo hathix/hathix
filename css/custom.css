@@ -20,6 +20,10 @@
     cursor: pointer;
 }
 
+.img-padding {
+    padding: 4px;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {

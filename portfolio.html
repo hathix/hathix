@@ -21,7 +21,7 @@ styles:
         {% for tech in site.data.technologies %}
             <div class="col-lg-1 col-md-1 col-sm-2 col-xs-3">
                 <img src="images/technologies/{{tech.name | downcase}}.png"
-                    class="img-responsive grayscale clickable"
+                    class="img-responsive grayscale clickable img-padding"
                     ng-class="{ 'grayscale-off': isFilterActive('{{tech.name}}')}"
                     ng-click="toggleFilter('{{tech.name}}')"
                     title="{{tech.name}}" data-toggle="tooltip">
