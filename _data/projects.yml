@@ -1,40 +1,3 @@
--   name: Cabra Flashcards
-    description: A free, open-source studying app
-    blurb: |
-        With over 250,000 users in 190 countries around the world,
-        Cabra helps students, teachers, social workers, parents, and anyone else
-        improve their learning experiences.
-    links:
-        -   name: Project site
-            icon: globe
-            url: http://cabra.hathix.com
-        -   name: Android app
-            icon: android
-            url: https://play.google.com/store/apps/details?id=com.hathix.android.chevre
-        -   name: Web app
-            icon: mobile
-            url: http://chevre.hathix.com
-        -   name: Cabra 2.0 beta
-            icon: github
-            url: https://github.com/hathix/cabra
-        -   name: Cabra 1.0 mobile
-            icon: github
-            url: https://github.com/hathix/cabra-mobile
-        -   name: Cabra 1.0 desktop
-            icon: github
-            url: https://github.com/hathix/cabra-desktop
-    technologies:
-        -   HTML5
-        -   CSS3
-        -   JavaScript
-        -   CoffeeScript
-        -   jQuery
-        -   Bootstrap
-        -   AngularJS
-        -   MongoDB
-        -   PhoneGap
-        -   Java
-    image: cabra-logo.png
 -   name: Transparent
     description: Visualizing government PDFs (Grand Prize, Tufts IDHack 2015)
     blurb: |
@@ -87,6 +50,66 @@
         -   AngularJS
         -   Heroku
     image: dlp-logo.png
+-   name: SEISP Móvil
+    description: Tuberculosis patient tracking app for Peru
+    blurb: |
+        I led Tech in the World 2016, a winter fellowship sponsored by Developers For Development, a technology and international development group at Harvard. My team worked with Socios en Salud, the largest health NGO in Peru, to build an Android app to digitize tuberculosis patient management, thereby increasing treatment adherence rates and reducing incidence of more dangerous forms of TB.
+    links:
+        -   name: Harvard Gazette article
+            icon: book
+            url: http://www.seas.harvard.edu/news/2016/02/taking-on-tuberculosis
+        -   name: GitHub
+            icon: github
+            url: https://github.com/hathix/6P
+        -   name: Blog
+            icon: pencil
+            url: http://blog.techintheworld.org/
+        -   name: Tech in the World website
+            icon: globe
+            url: http://techintheworld.org
+        -   name: Developers For Development
+            icon: globe
+            url: http://www.harvardd4d.com/
+    technologies:
+        -   Android
+    image: socios-en-salud.jpg
+-   name: Cabra Flashcards
+    description: A free, open-source studying app
+    blurb: |
+        With over 250,000 users in 190 countries around the world,
+        Cabra helps students, teachers, social workers, parents, and anyone else
+        improve their learning experiences.
+    links:
+        -   name: Project site
+            icon: globe
+            url: http://cabra.hathix.com
+        -   name: Android app
+            icon: android
+            url: https://play.google.com/store/apps/details?id=com.hathix.android.chevre
+        -   name: Web app
+            icon: mobile
+            url: http://chevre.hathix.com
+        -   name: Cabra 2.0 beta
+            icon: github
+            url: https://github.com/hathix/cabra
+        -   name: Cabra 1.0 mobile
+            icon: github
+            url: https://github.com/hathix/cabra-mobile
+        -   name: Cabra 1.0 desktop
+            icon: github
+            url: https://github.com/hathix/cabra-desktop
+    technologies:
+        -   HTML5
+        -   CSS3
+        -   JavaScript
+        -   CoffeeScript
+        -   jQuery
+        -   Bootstrap
+        -   AngularJS
+        -   MongoDB
+        -   PhoneGap
+        -   Java
+    image: cabra-logo.png
 -   name: CHES Surveys
     description: An SMS-based survey system
     blurb: |
