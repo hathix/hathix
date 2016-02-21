@@ -55,7 +55,7 @@
     blurb: |
         I led Tech in the World 2016, a winter fellowship sponsored by Developers For Development, a technology and international development group at Harvard. My team worked with Socios en Salud, the largest health NGO in Peru, to build an Android app to digitize tuberculosis patient management, thereby increasing treatment adherence rates and reducing incidence of more dangerous forms of TB.
     links:
-        -   name: Harvard Gazette article
+        -   name: Harvard SEAS article
             icon: book
             url: http://www.seas.harvard.edu/news/2016/02/taking-on-tuberculosis
         -   name: GitHub
