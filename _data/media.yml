@@ -1,3 +1,11 @@
+-   name: The Disruption Panel at HPE Discover 2016
+    blurb: |
+        After winning the International Development Hackathon with my project to visualize Tanzanian budget data, Hewlett Packard Enterprise invited me to speak in front of 40,000 people at their largest consumer conference.
+    links:
+        -   name: Panel video
+            icon: youtube-play
+            url: https://www.youtube.com/watch?v=jVQDZxuTGSo
+    image: neel-mehta-discover.jpg
 -   name: Building a government data visualizer with HP
     blurb: |
         For my award-winning project Transparent in Tufts' International Development Hackathon, HP featured me as the lead developer on their developers' platform.
@@ -8,7 +16,7 @@
         -   name: Guest post on HP Developer community blog
             icon: pencil
             url: https://community.idolondemand.com/t5/Blog/Building-a-government-data-visualizer-using-Node-js/ba-p/1870
-    image: hp-reduced.jpg
+    image: neel-mehta-hp.jpg
 -   name: CS50 Seminar - Web Apps of the Future with React
     blurb: |
         A web programming workshop I led as a CS50 teaching fellow at Harvard in fall 2015. This workshop, with over 300 livestreamed attendees, focused on React, Facebook's up-and-coming user-interface library for JavaScript.
@@ -22,7 +30,7 @@
         -   name: Source code
             icon: code
             url: https://github.com/hathix/cs50-seminars/tree/master/react
-    image: react-reduced.jpg
+    image: neel-mehta-react.jpg
 -   name: CS50 Seminar - Responsive Design with Bootstrap
     blurb: |
         A web programming workshop I led as a CS50 teaching fellow at Harvard in fall 2015. This workshop, with over 300 livestreamed attendees, focused on Bootstrap, the web's most popular frontend CSS framework.
@@ -36,8 +44,8 @@
         -   name: Source code
             icon: code
             url: https://github.com/hathix/cs50-seminars/tree/master/bootstrap
-    image: bootstrap-reduced.jpg
--   name: Taking on Tuberculosis (Harvard SEAS)
+    image: neel-mehta-bootstrap.jpg
+-   name: Taking on Tuberculosis (Harvard Engineering)
     blurb: |
         After I led a team to Peru to build a tuberculosis tracking app for a public health nonprofit, the Harvard School of Engineering and Applied Sciences wrote a featured article about our team and our project.
     links:
