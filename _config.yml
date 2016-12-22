@@ -12,3 +12,6 @@ fontawesome_version: 4.5.0
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+ - jekyll-coffeescript

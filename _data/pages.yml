@@ -11,6 +11,8 @@ main:
         url: /about.html
     -   name: Blog
         url: http://blog.hathix.com
+    -   name: Medium
+        url: https://medium.com/@neelmehta/
     -   name: Cabra
         url: http://cabra.hathix.com
     -   name: Games
