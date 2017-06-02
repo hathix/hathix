@@ -18,6 +18,8 @@ main:
         # TEMP until other pages come back
     -   name: Cabra
         url: http://cabra.hathix.com
+    -   name: About
+        url: /about.html
 more:
     -   name: Games
         url: /games.html
