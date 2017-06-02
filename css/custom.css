@@ -24,6 +24,10 @@
     padding: 4px;
 }
 
+.centered {
+    text-align: center;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
