@@ -28,6 +28,10 @@
     padding: 10px;
 }
 
+.thumbnail-image {
+    max-height: 200px;
+}
+
 .centered {
     text-align: center;
 }

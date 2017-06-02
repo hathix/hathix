@@ -18,7 +18,23 @@ permalink: about.html
         </div>
     </div>
 
+    <hr />
 
+    <div class="row">
+        {% for card in site.data.about.cards %}
+            <div class="col-sm-4">
+              <div class="thumbnail">
+                <img src="{{ card.image }}" alt="{{ card.name }} - Neel Mehta, hathix.com" class="thumbnail-image img-responsive img-rounded">
+                <div class="caption">
+                  <h3>{{ card.name }}</h3>
+                  {{ card.description | markdownify }}
+                </div>
+              </div>
+            </div>
+        {% endfor %}
+    </div>
+
+            <!-- <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p> -->
 
     <h2>Resume</h2>
     <p>
