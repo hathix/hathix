@@ -1,8 +1,21 @@
-<div class="footer" ng-controller="AboutCtrl">
+<div class="footer">
     <div class="container">
-        <p class="text-muted">
-            Copyright &copy; Neel Mehta 2011 &ndash; [[{ date | date: 'yyyy' }]].
+        <p class="text-muted centered">
+            Copyright &copy; Neel Mehta 2011 &ndash; <script>document.write(new Date().getFullYear())</script>.
             Made with <span class="fa fa-heart"></span> in Cambridge, MA.
+
+            <br />
+
+            <!-- social media -->
+            {% for media in site.data.socialmedia %}
+                &nbsp;
+                <a href="{{ media.url }}" target="_blank">
+                    <span class="sr-only">{{ media.name }}</span>
+                    <span class="fa fa-{{ media.icon }}"></span>
+                </a>
+                &nbsp;
+            {% endfor %}
+
         </p>
     </div>
 </div>

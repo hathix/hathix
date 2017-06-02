@@ -2,7 +2,7 @@ main:
     -   name: Home
         url: /
     # -   name: Projects
-    #     url: /projects
+    #     url: /projects.html
     # -   name: Work History
     #     url: /work.html
     # -   name: Media
