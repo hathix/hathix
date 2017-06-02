@@ -9,15 +9,16 @@ main:
         url: /media.html
     -   name: About
         url: /about.html
-    -   name: Blog
-        url: http://blog.hathix.com
+    # -   name: Blog
+    #     url: http://blog.hathix.com
     -   name: Medium
         url: https://medium.com/@neelmehta/
     -   name: Cabra
         url: http://cabra.hathix.com
+more:
     -   name: Games
         url: /games.html
     -   name: Store
         url: http://www.cafepress.com/hathix
-    -   name: More
+    -   name: Misc.
         url: /miscellaneous.html
