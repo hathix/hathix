@@ -24,6 +24,10 @@
     padding: 4px;
 }
 
+.extra-padding {
+    padding: 10px;
+}
+
 .centered {
     text-align: center;
 }

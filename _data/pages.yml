@@ -1,18 +1,21 @@
 main:
     -   name: Home
         url: /
-    -   name: Projects
-        url: /projects
-    -   name: Work History
-        url: /work.html
-    -   name: Media
-        url: /media.html
-    -   name: About
-        url: /about.html
+    # -   name: Projects
+    #     url: /projects
+    # -   name: Work History
+    #     url: /work.html
+    # -   name: Media
+    #     url: /media.html
+    # -   name: About
+    #     url: /about.html
     # -   name: Blog
     #     url: http://blog.hathix.com
     -   name: Medium
         url: https://medium.com/@neelmehta/
+    -   name: LinkedIn
+        url: https://linkedin.com/in/neelmehta18
+        # TEMP until other pages come back
     -   name: Cabra
         url: http://cabra.hathix.com
 more:

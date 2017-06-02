@@ -48,19 +48,33 @@ layout: default
             <!-- BRANDS -->
 
             {% for brand in site.data.brands %}
-                <h2>
-                    {{ brand.title }} <small class="text-muted">— {{ brand.subtitle }}</small>
-                    <span class="sr-only">by Neel Mehta</span>
-                </h2>
+            <div class="media">
+              <div class="media-left">
+                <a href="#">
+                  <img class="media-object extra-padding" src="images/brands/{{ brand.image }}" alt="{{ brand.title }} by Neel Mehta">
+                </a>
+              </div>
+              <div class="media-body">
+                  <h2 class="media-heading">
+                      {{ brand.title }} <small class="text-muted">— {{ brand.subtitle }}</small>
+                      <span class="sr-only">by Neel Mehta</span>
+                  </h2>
+
+                  <p>
+                      {{ brand.description }}
+                  </p>
+              </div>
+            </div>
             {% endfor %}
+
+            <br />
+
+            <hr />
+
+            <p>
+                Want to talk? <a href="http://www.google.com/recaptcha/mailhide/d?k=01CiQQvSHlOI2asGiYuYmeNQ==&c=6qLiAGtgqrFteAuaXy-69aFyqvGE8Mit4SA789LEL-U=">Drop me a line!</a>
+            </p>
 
         </div>
     </div>
-
-
-
-        <a href="portfolio.html" class="btn btn-primary btn-block">
-        Check out my portfolio.
-        </a>
-
 </div>

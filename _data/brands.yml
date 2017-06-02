@@ -1,25 +1,30 @@
 -   title: Harvard University
     subtitle: BA in CS, 4.00 GPA
     url: http://harvard.edu
+    image: harvard.png
     description: |
         I study computer science at Harvard, where I also dabble in the social sciences and political science. I chair the Finance Committee on the undergraduate student body government, built Harvard's first open data catalog (and an open data community of hundreds), TA'ed the intro CS course (CS50), and helped lead the edtech and international development tech clubs.
 -   title: Microsoft
     subtitle: Program Manager Intern
     url: https://medium.com/@neelmehta/work-soft-play-soft-interning-at-microsoft-summer-2016-a20afabaf2a4
+    image: microsoft.png
     description: |
         I did UI/UX design and business strategy for Microsoft Project and Planner, two products in the Office family. At Project, the billion-dollar project management tool, I helped revamp the timesheeting system. And on Planner, I led the development of a first-run experience to improve engagement for 150 million monthly active users.
 -   title: Coding it Forward
     subtitle: Cofounder
     url: http://codingitforward.com
+    image: coding-it-forward-logo.jpg
     description: |
         Along with Harvard students and faculty, I cofounded a community of 800+ students who are using their technology skills to purse careers in the social impact space. We've earned grants from the Shuttleworth Foundation and Harvard's Institute of Politics, as well as press coverage in govtech magazines, and we're on our way to becoming a 501(c)(3) nonprofit.
 -   title: Civic Digital Fellowship
     subtitle: Cofounder and Product Manager
     url: http://codingitforward.com/fellowship/
+    image: civic-digital-fellowship.png
     description: |
         I turned down offers from Microsoft and Facebook because I wanted to serve my country by working in civic tech. Seeing no good civic tech internships anywhere, I started a fully-funded data science and technology internship program in federal agencies, the first of its kind, in conjunction with Harvard and the US Census Bureau. In our first summer, we're sending 15 software engineers, data scientists, designers, and PMs to the Census. We got 220+ applications from 80 schools for these 15 spots, a 7% acceptance rate. I'll be a PM at the Census through this fellowship.
 -   title: Khan Academy
     subtitle: Software Engineering Intern
     url: http://blog.hathix.com/2015/11/khan-academy-internship/
+    image: khan-academy.png
     description: |
         At the world's premier edtech nonprofit, I built a new email notification system for six million monthly active users and improved overall learning metrics by 3%.
