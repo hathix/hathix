@@ -12,3 +12,14 @@
     subtitle: Cofounder
     url: http://codingitforward.com
     description: |
+        Along with Harvard students and faculty, I cofounded a community of 800+ students who are using their technology skills to purse careers in the social impact space. We've earned grants from the Shuttleworth Foundation and Harvard's Institute of Politics, as well as press coverage in govtech magazines, and we're on our way to becoming a 501(c)(3) nonprofit.
+-   title: Civic Digital Fellowship
+    subtitle: Cofounder and Product Manager
+    url: http://codingitforward.com/fellowship/
+    description: |
+        I turned down offers from Microsoft and Facebook because I wanted to serve my country by working in civic tech. Seeing no good civic tech internships anywhere, I started a fully-funded data science and technology internship program in federal agencies, the first of its kind, in conjunction with Harvard and the US Census Bureau. In our first summer, we're sending 15 software engineers, data scientists, designers, and PMs to the Census. We got 220+ applications from 80 schools for these 15 spots, a 7% acceptance rate. I'll be a PM at the Census through this fellowship.
+-   title: Khan Academy
+    subtitle: Software Engineering Intern
+    url: http://blog.hathix.com/2015/11/khan-academy-internship/
+    description: |
+        At the world's premier edtech nonprofit, I built a new email notification system for six million monthly active users and improved overall learning metrics by 3%.
