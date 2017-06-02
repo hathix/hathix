@@ -15,6 +15,17 @@ cards:
 
             *Life's too short to walk - get a skateboard!*
         image: images/about/neel-skateboard-sector9.jpg
+    -   name: Baseball
+        description: |
+            I'm a diehard fan of the Philadelphia Phillies (my hometown team), and since I'm in Boston, the Red Sox are my AL team. Fenway Park is pictured above.
+
+            My life goal is to go to a game at every MLB ballpark; so far I've just gotten four:
+
+            * Citizens Bank Park, Philadelphia
+            * Fenway Park, Boston
+            * AT&T Park, San Francisco
+            * Safeco Field, Seattle
+        image: images/about/fenway-park.jpg
 
 # favorites:
 #     -   type: Shoes
