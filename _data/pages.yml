@@ -1,8 +1,8 @@
 main:
     -   name: Home
         url: /
-    -   name: Portfolio
-        url: /portfolio.html
+    -   name: Projects
+        url: /projects
     -   name: Work History
         url: /work.html
     -   name: Media
