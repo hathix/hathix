@@ -31,6 +31,7 @@ layout: default
 
             <hr />
 
+            <!-- SOCIAL MEDIA -->
             <div class="centered">
                 {% for media in site.data.socialmedia %}
                     &nbsp;&nbsp;&nbsp;
@@ -44,7 +45,14 @@ layout: default
 
             <hr />
 
+            <!-- BRANDS -->
 
+            {% for brand in site.data.brands %}
+                <h2>
+                    {{ brand.title }} <small class="text-muted">— {{ brand.subtitle }}</small>
+                    <span class="sr-only">by Neel Mehta</span>
+                </h2>
+            {% endfor %}
 
         </div>
     </div>
