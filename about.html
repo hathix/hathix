@@ -1,50 +1,51 @@
 ---
 layout: default
-title: About Neel Mehta
+title: About
 permalink: about.html
 ---
 
-<div class="row">
-    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-        <img src="images/about/neel-mehta.jpg" class="img-responsive img-thumbnail img-circle">
-    </div>
-    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
-        <p class="lead">
-            Random stuff about me and hathix.com.
-        </p>
-        <p>
-            Neel. Harvard College Class of 2018. Native Philadelphian.
-            Web developer. Baseball fan. Pun lover.
-            Sometime philosopher. Politics junkie.
-        </p>
-    </div>
-</div>
+<div class="container">
 
-<h2>Resume</h2>
-<p>
-    In case you're interested.
-</p>
-<a href="{{site.data.about.resume}}" class="btn btn-default">
-    Neel Mehta's Resume
-</a>
+    {% include jumbotron.html %}
 
-<!--
-<h2>Favorites</h2>
+    <h2 class="lead">
+        Hi, I'm Neel! When I was a kid, I always wanted an elephant in a box (seemed useful), so as an homage to that childhood dream, I made elephants in boxes the theme of all my online profiles. If you want to know anything about my work, check out any other page on this site, but if you want to know me personally, you're in the right place.
+    </h2>
 
-<div class="row">
-    {% for fave in site.data.about.favorites %}
-        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
-            <strong>{{fave.type}}</strong>: {{fave.value}}
+    <div class="row">
+        <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+            <img src="images/about/neel-mehta-balloon-square.jpg" class="img-responsive img-thumbnail img-circle">
         </div>
+    </div>
+
+
+
+    <h2>Resume</h2>
+    <p>
+        In case you're interested.
+    </p>
+    <a href="{{site.data.about.resume}}" class="btn btn-default">
+        Neel Mehta's Resume
+    </a>
+
+    <!--
+    <h2>Favorites</h2>
+
+    <div class="row">
+        {% for fave in site.data.about.favorites %}
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                <strong>{{fave.type}}</strong>: {{fave.value}}
+            </div>
+        {% endfor %}
+    </div>
+    -->
+
+    <h2>(In)frequently Asked Questions</h2>
+    <p class="lead">Questions I wish people would ask me more.</p>
+    {% for faq in site.data.about.faq %}
+        <p>
+            <strong>{{faq.question | markdownify}}</strong>
+            {{faq.answer | markdownify }}
+        </p>
     {% endfor %}
 </div>
--->
-
-<h2>(In)frequently Asked Questions</h2>
-<p class="lead">Questions I wish people would ask me more.</p>
-{% for faq in site.data.about.faq %}
-    <p>
-        <strong>{{faq.question | markdownify}}</strong>
-        {{faq.answer | markdownify }}
-    </p>
-{% endfor %}
