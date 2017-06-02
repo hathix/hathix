@@ -48,13 +48,13 @@ layout: default
             <!-- BRANDS -->
 
             {% for brand in site.data.brands %}
-            <div class="media">
-              <div class="media-left">
-                <a href="#">
-                  <img class="media-object extra-padding" src="images/brands/{{ brand.image }}" alt="{{ brand.title }} by Neel Mehta">
+            <div class="row">
+              <div class="col-sm-4 col-md-4 col-lg-3">
+                <a href="{{ brand.url }}">
+                  <img class="media-object extra-padding img-centered img-rounded" src="images/brands/{{ brand.image }}" alt="{{ brand.title }} by Neel Mehta">
                 </a>
               </div>
-              <div class="media-body">
+              <div class="col-sm-8 col-md-8 col-lg-9">
                   <h2 class="media-heading">
                       {{ brand.title }} <small class="text-muted">— {{ brand.subtitle }}</small>
                       <span class="sr-only">by Neel Mehta</span>

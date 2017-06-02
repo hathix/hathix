@@ -36,6 +36,10 @@
     text-align: center;
 }
 
+.img-centered {
+    margin: auto;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
