@@ -2,11 +2,11 @@ main:
     -   name: Home
         url: /
     -   name: Projects
-        url: /projects
+        url: /projects/
     # -   name: Work History
     #     url: /work.html
     -   name: Media
-        url: /media
+        url: /media/
     # -   name: About
     #     url: /about.html
     # -   name: Blog
@@ -17,13 +17,13 @@ main:
         url: https://linkedin.com/in/neelmehta18
         # TEMP until other pages come back
     -   name: About
-        url: /about
+        url: /about/
 more:
     -   name: Cabra
         url: http://cabra.hathix.com
     -   name: Games
-        url: /games
+        url: /games/
     # -   name: Store
     #     url: http://www.cafepress.com/hathix
     # -   name: Misc.
-    #     url: /miscellaneous
+    #     url: /miscellaneous/
