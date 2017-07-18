@@ -1,14 +1,73 @@
+-   name: HuffPost - Harvard Students Partner With U.S. Government to Address Digital Skills Gaps
+    blurb: |
+        The Huffington Post featured my work founding the Civic Digital Fellowship, a fully-funded data science and technology fellowship in federal agencies.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: http://www.huffingtonpost.com/entry/harvard-students-partner-with-us-government-to-address_us_59658fc6e4b09be68c005645
+-   name: GovTech - Harvard Students, U.S. Government Partner to Address Digital Skills Gap
+    blurb: |
+        GovTech also featured my work founding the Civic Digital Fellowship and Coding it Forward.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: http://www.govtech.com/civic/Whats-New-in-Civic-Tech-07132017.html
+-   name: FedScoop - Harvard undergraduates launch fellowship to connect students early to federal agencies
+    blurb: |
+        FedScoop interviewed me about the Civic Digital Fellowship right as it was about to launch.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: https://www.fedscoop.com/harvard-undergraduates-launch-fellowship-connect-students-early-federal-agencies/
+-   name: FCW - Harvard students spin up gov-tech internship
+    blurb: |
+        Federal Computer Week interviewed me about the Civic Digital Fellowship.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: https://fcw.com/articles/2017/04/05/harvard-students-govtech-intern.aspx
+-   name: Harvard Political Review - Opening Doors with Open Data
+    blurb: |
+        The HPR wrote a feature on the Harvard Open Data Project, a student-faculty collaboration that I founded to create Harvard's first open data catalog. It covers our catalog and our goals for open data policies around the University.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: http://harvardpolitics.com/harvard/open-data/
+-   name: "Harvard Political Review - For the People: Improving Governments with Technology"
+    blurb: |
+        The HPR featured Coding it Forward, the tech-for-social-good nonprofit I founded. This feature also discusses my work in civic tech and my vision for the field.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: http://harvardpolitics.com/covers/civic-tech/
 -   name: The Disruption Panel at HPE Discover 2016
     blurb: |
         After winning the International Development Hackathon with my project to visualize Tanzanian budget data, Hewlett Packard Enterprise invited me to speak in front of 40,000 people at their largest consumer conference.
+    year: 2016
     links:
         -   name: Panel video
             icon: youtube-play
             url: https://www.youtube.com/watch?v=jVQDZxuTGSo
     image: neel-mehta-discover.jpg
+-   name: Taking on Tuberculosis (Harvard Engineering)
+    blurb: |
+        After I led a team to Peru to build a tuberculosis tracking app for a public health nonprofit, the Harvard School of Engineering and Applied Sciences wrote a featured article about our team and our project.
+    year: 2016
+    links:
+        -   name: Article
+            icon: book
+            url: http://www.seas.harvard.edu/news/2016/02/taking-on-tuberculosis
+    image: tech-in-the-world.jpg
 -   name: Building a government data visualizer with HP
     blurb: |
         For my award-winning project Transparent in Tufts' International Development Hackathon, HP featured me as the lead developer on their developers' platform.
+    year: 2015
     links:
         -   name: Interview with HP
             icon: youtube-play
@@ -20,6 +79,7 @@
 -   name: CS50 Seminar - Web Apps of the Future with React
     blurb: |
         A web programming workshop I led as a CS50 teaching fellow at Harvard in fall 2015. This workshop, with over 300 livestreamed attendees, focused on React, Facebook's up-and-coming user-interface library for JavaScript.
+    year: 2015
     links:
         -   name: Video
             icon: youtube-play
@@ -34,6 +94,7 @@
 -   name: CS50 Seminar - Responsive Design with Bootstrap
     blurb: |
         A web programming workshop I led as a CS50 teaching fellow at Harvard in fall 2015. This workshop, with over 300 livestreamed attendees, focused on Bootstrap, the web's most popular frontend CSS framework.
+    year: 2015
     links:
         -   name: Video
             icon: youtube-play
@@ -45,11 +106,3 @@
             icon: code
             url: https://github.com/hathix/cs50-seminars/tree/master/bootstrap
     image: neel-mehta-bootstrap.jpg
--   name: Taking on Tuberculosis (Harvard Engineering)
-    blurb: |
-        After I led a team to Peru to build a tuberculosis tracking app for a public health nonprofit, the Harvard School of Engineering and Applied Sciences wrote a featured article about our team and our project.
-    links:
-        -   name: SEAS article
-            icon: book
-            url: http://www.seas.harvard.edu/news/2016/02/taking-on-tuberculosis
-    image: tech-in-the-world.jpg
