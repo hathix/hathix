@@ -21,17 +21,21 @@ permalink: /media/
             <h2>{{medium.name}}</h2>
         </div>
 
-        <div class="col-xs-3">
-            {% if medium.image %}
+        {% if medium.image %}
+            <div class="col-xs-3">
                 <img src="/images/media/{{medium.image}}" class="portfolio-image pull-left img-responsive">
-            {% endif %}
-        </div>
+            </div>
+        {% endif %}
 
         <!-- <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="..."></iframe>
         </div> -->
 
-        <div class="col-xs-9">
+        {% if medium.image %}
+            <div class="col-xs-9">
+        {% else %}
+            <div>
+        {% endif %}
 
 
 
