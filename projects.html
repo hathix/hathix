@@ -3,10 +3,10 @@ layout: default
 title: Projects
 permalink: /projects/
 scripts:
-    - scripts/portfolio.js
+    - /scripts/portfolio.js
     - //cdn.jsdelivr.net/jquery.gray/1.4.1/jquery.gray.min.js
 styles:
-    - css/gray.min.css
+    - /css/gray.min.css
 ---
 
 <div class="container" ng-controller="PortfolioCtrl">
@@ -20,7 +20,7 @@ styles:
         <h3>Filter projects by technology:</h3>
         {% for tech in site.data.technologies %}
             <div class="col-lg-1 col-md-1 col-sm-2 col-xs-3">
-                <img src="images/technologies/{{tech.name | downcase}}.png"
+                <img src="/images/technologies/{{tech.name | downcase}}.png"
                     class="img-responsive grayscale clickable img-padding"
                     ng-class="{ 'grayscale-off': isFilterActive('{{tech.name}}')}"
                     ng-click="toggleFilter('{{tech.name}}')"
@@ -61,7 +61,7 @@ styles:
                         </div>
 
                         {% if project.image %}
-                            <img src="images/projects/{{project.image}}" class="portfolio-image pull-left">
+                            <img src="/images/projects/{{project.image}}" class="portfolio-image pull-left">
                         {% endif %}
 
                         <ul class="list-unstyled lead">
@@ -82,7 +82,7 @@ styles:
                         <div class="row">
                             {% for tech in project.technologies reversed %}
                                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 pull-right">
-                                    <img src="images/technologies/{{tech | downcase}}.png"
+                                    <img src="/images/technologies/{{tech | downcase}}.png"
                                     class="img-responsive"
                                     title="{{tech}}" data-toggle="tooltip">
                                 </div>
