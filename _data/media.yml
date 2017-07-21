@@ -6,6 +6,14 @@
         -   name: Article
             icon: book
             url: http://www.huffingtonpost.com/entry/harvard-students-partner-with-us-government-to-address_us_59658fc6e4b09be68c005645
+-   name: CIO — Harvard Students Partner With U.S. Government to Address Digital Skills Gaps
+    blurb: |
+        I sat down with CIO.com contributor Marquis Cabrera to talk about my work starting the Civic Digital Fellowship.
+    year: 2017
+    links:
+        -   name: Article
+            icon: book
+            url: http://www.cio.com/article/3208865/government-use-of-it/harvard-students-partner-with-us-government-to-address-digital-skills-gaps.html
 -   name: GovTech - Harvard Students, U.S. Government Partner to Address Digital Skills Gap
     blurb: |
         GovTech also featured my work founding the Civic Digital Fellowship and Coding it Forward.
