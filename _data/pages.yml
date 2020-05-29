@@ -1,14 +1,14 @@
 main:
     -   name: Home
         url: /
-    -   name: Projects
-        url: /projects/
+    # -   name: Projects
+    #     url: /projects/
     # -   name: Work History
     #     url: /work.html
-    -   name: Media
-        url: /media/
-    # -   name: About
-    #     url: /about.html
+    # -   name: Media
+    #     url: /media/
+    -   name: About
+        url: https://swipetounlock.com/neel
     # -   name: Blog
     #     url: http://blog.hathix.com
     -   name: Medium
@@ -16,8 +16,8 @@ main:
     -   name: LinkedIn
         url: https://linkedin.com/in/neelmehta18
         # TEMP until other pages come back
-    -   name: About
-        url: /about/
+    # -   name: About
+    #     url: /about/
 more:
     -   name: Cabra
         url: http://cabra.hathix.com
