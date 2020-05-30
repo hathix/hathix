@@ -1,16 +1,20 @@
 - name: Email
   # using mailhide to hide the email
-  url: http://www.google.com/recaptcha/mailhide/d?k=01CiQQvSHlOI2asGiYuYmeNQ==&c=6qLiAGtgqrFteAuaXy-69aFyqvGE8Mit4SA789LEL-U=
+  url: https://mailhide.io/e/VsvOc
+  icon_family: fa
   icon: envelope
 - name: LinkedIn
   url:  https://linkedin.com/in/neelmehta18
+  icon_family: fab
   icon: linkedin-in
 - name: GitHub
   url:  https://github.com/hathix
+  icon_family: fab
   icon: github
 - name: Medium
   url:  https://medium.com/@neelmehta/
+  icon_family: fab
   icon: medium
-- name: Twitter
-  url: https://twitter.com/@hathix
-  icon: twitter
+# - name: Twitter
+#   url: https://twitter.com/@hathix
+#   icon: twitter
