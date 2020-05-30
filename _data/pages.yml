@@ -18,6 +18,8 @@ main:
         # TEMP until other pages come back
     # -   name: About
     #     url: /about/
+    -   name: Swipe to Unlock
+        url: https://www.amazon.com/gp/product/b0756mtx6k/
 more:
     -   name: Cabra
         url: http://cabra.hathix.com
