@@ -19,7 +19,7 @@ permalink: /games/
 {% for game in site.data.games %}
     <div class="media">
         <a class="media-left" href="{{game.url}}">
-            <img src="images/games/{{game.name | slugify | downcase}}.png">
+            <img src="/images/games/{{game.name | slugify | downcase}}.png">
         </a>
         <div class="media-body">
             <h4 class="media-heading">
